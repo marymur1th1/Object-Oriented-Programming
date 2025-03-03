@@ -1,3 +1,12 @@
+/*
+Classes and Objects Assignment
+
+Author: Mary Murithi Muthoni
+Reg No: BSE-05-0185/2024
+Date: 28/1/2025
+Version 1
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
